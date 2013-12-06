@@ -43,7 +43,9 @@
 			<Add directory="G:/Projects/C++/SDL-1.2.15/lib" />
 		</Linker>
 		<Unit filename="cb.bmp" />
+		<Unit filename="imageFunctions.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="tetris.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
